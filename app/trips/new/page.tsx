@@ -327,7 +327,7 @@ export default function TripQuizPage() {
                 </Pill>
               ))}
             </div>
-            <div className="text-xs text-neutral-500">1 = very cheap, 4 = lavish</div>
+            <div className="text-xs text-neutral-500">1 = frugal, 4 = lavish</div>
           </div>
 
           <div className="space-y-2">
